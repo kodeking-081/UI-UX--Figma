@@ -1,6 +1,6 @@
 # UI-UX--Figma
 
-## 1.Table Reservation System for Liitle Lemon Restaurant:
+## 1.Table Reservation System for Little Lemon Restaurant:
 This project is a part of UI/UX design subcourse in Meta Frontend Developer Course. Doing this project, I learned figma basics and how to create a thorough prototype.
 
 ### a) Homepage:
